@@ -1,0 +1,12 @@
+# Core Selenium dependencies
+selenium>=4.23.0
+webdriver-manager>=4.0.1
+
+# Optional logging and data handling
+loguru>=0.7.2
+pandas>=2.2.0
+beautifulsoup4>=4.12.3
+
+# Testing & reporting (optional)
+pytest>=8.3.0
+pytest-html>=4.1.1
